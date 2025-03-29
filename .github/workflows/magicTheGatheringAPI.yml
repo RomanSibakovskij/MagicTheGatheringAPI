@@ -1,4 +1,4 @@
-name: Automated API Tests using CI pipelines through Postmans
+name: Automated Magic The Gathering API Test with Postman through CI pipeline
 
 on: push
 
